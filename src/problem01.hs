@@ -7,4 +7,4 @@ solution = lastElement
 lastElement :: [a] -> a
 lastElement [] = error "got empty list"
 lastElement [x] = x
-lastElement (_ : xs) = lastElement xs
+lastElement (_ : tl) = lastElement tl -- ignore the head and recurse on the tail
