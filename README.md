@@ -28,13 +28,13 @@ Compile and run `main.hs` using GHC or your preferred Haskell build tool.
 
 ```haskell
 -- Example in main.hs
-import qualified src.problem01 as P1
-import qualified src.problem02 as P2
+module Main where
+
+import Problem01 qualified as P01
 
 main :: IO ()
 main = do
-print P1.solution
-print P2.solution
+  print $ P01.solution ([1, 2, 3, 4] :: [Int])
 ```
 
 OR just run the Makefile
