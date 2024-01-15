@@ -48,9 +48,11 @@ make
 - [x] Problem 1
 - [x] Problem 2
 - [x] Problem 3
+- [x] Problem 4
 
 ## Learning Resources
 
+- [99 Questions](https://wiki.haskell.org/99_questions)
 - [Haskell Official Documentation](https://www.haskell.org/documentation/)
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
