@@ -45,7 +45,7 @@ make
 
 ## Progress
 
-- [ ] Problem 1
+- [x] Problem 1
 - [ ] Problem 2
 - [ ] Problem 3
 
