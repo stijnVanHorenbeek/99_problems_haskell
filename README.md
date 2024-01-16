@@ -50,6 +50,7 @@ make
 - [x] Problem 3
 - [x] Problem 4
 - [x] Problem 5
+- [x] Problem 6
 
 ## Learning Resources
 
